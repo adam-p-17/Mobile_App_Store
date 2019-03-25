@@ -130,3 +130,7 @@ X_val_cn.csv
 X_val_cnlda.csv
 X_val_text.csv
 X_val_text.npz
+Bidirect_LSTM.h5py
+LSTM_300.h5py
+LSTM_Mult_Dense.h5py
+Multiple_LSTM.h5py
