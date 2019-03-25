@@ -102,3 +102,31 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+lda_model.sav
+lr_cnlda.sav
+lr_cn.sav
+lr_text
+LSTM_100.h5py
+Modeling.ipynb
+model_xgb.sav
+Preliminary data exploration.ipynb
+rf_cnlda.sav
+rf_cn.sav
+rf_text
+xgb_cnlda.sav
+xgb_cn.sav
+xgb_text
+X_test_cn.csv
+X_test_cnlda.csv
+X_test_text.csv
+X_test_text.npz
+X_train_cn.csv
+X_train_cnlda.csv
+X_train_cnlda.sav
+X_train_cn.sav
+X_train_text.csv
+X_train_text.npz
+X_val_cn.csv
+X_val_cnlda.csv
+X_val_text.csv
+X_val_text.npz
